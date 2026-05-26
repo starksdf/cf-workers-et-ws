@@ -38,5 +38,4 @@ tag = "v1"
 new_sqlite_classes = ["RelayRoom"]
 
 [placement]
-mode = "region"
-region = "gcp:asia-east1"
+mode = "smart"
